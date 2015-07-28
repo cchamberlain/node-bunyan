@@ -11,6 +11,8 @@
  * vim: expandtab:ts=4:sw=4
  */
 
+ module.exports = main
+
 var VERSION = '1.4.1';
 
 var p = console.log;
